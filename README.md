@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Yuvraj rana
-- 🌱 I’m currently learning dsa
 
 <!---
 Yuvii2021/Yuvii2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
